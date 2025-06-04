@@ -5,3 +5,4 @@
 <script>addRow(".env",".env",0,180,"180 B",1748933337,"25. 6. 3. 오후 3:48:57");</script>
 <script>addRow(".gitignore",".gitignore",0,310,"310 B",1748421261,"25. 5. 28. 오후 5:34:21");</script>
 <script>addRow("package.json","package.json",0,1031,"1.0 kB",1749019373,"25. 6. 4. 오후 3:42:53");</script>
+<script>addRow("vercel.json","vercel.json",0,80,"80 B",1749024038,"25. 6. 4. 오후 5:00:38");</script>
